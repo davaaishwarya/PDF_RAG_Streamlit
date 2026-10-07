@@ -1,0 +1,58 @@
+[
+  {
+    "career": "Python Developer",
+    "icon": "🐍",
+    "skills": "Python, Django, SQL, Git, HTML, CSS",
+    "interests": "Programming, Web Development, Backend Development",
+    "roadmap": "Python → OOP → SQL → Django → Projects → Git → Interviews"
+  },
+  {
+    "career": "Data Scientist",
+    "icon": "📊",
+    "skills": "Python, NumPy, Pandas, ML, SQL, Statistics",
+    "interests": "Data Science, ML, Analytics",
+    "roadmap": "Python → NumPy/Pandas → Statistics → ML → Datasets → ML Projects → Visualization"
+  },
+  {
+    "career": "Machine Learning Engineer",
+    "icon": "🤖",
+    "skills": "Python, ML, NumPy, Pandas, TensorFlow, SQL, Git",
+    "interests": "ML, AI, Deep Learning",
+    "roadmap": "Python → Mathematics → ML → Deep Learning → TensorFlow → Projects → Deployment"
+  },
+  {
+    "career": "Full Stack Developer",
+    "icon": "🌐",
+    "skills": "HTML, CSS, JavaScript, Python, Django, SQL, Git",
+    "interests": "Web Development, Programming, Frontend Development",
+    "roadmap": "HTML → CSS → JavaScript → Python → Django → SQL → Full Stack Projects"
+  },
+  {
+    "career": "AI Engineer",
+    "icon": "🧠",
+    "skills": "Python, ML, Deep Learning, TensorFlow, NLP, Git",
+    "interests": "AI, ML, Deep Learning",
+    "roadmap": "Python → ML → Deep Learning → NLP → GenAI → AI Apps → Deployment"
+  },
+  {
+    "career": "Data Analyst",
+    "icon": "📈",
+    "skills": "Python, Pandas, SQL, Excel, Statistics",
+    "interests": "Data Analysis, Analytics, BI",
+    "roadmap": "Excel → SQL → Python → Pandas → Statistics → Visualization → Projects"
+  },
+  {
+    "career": "Cloud Engineer",
+    "icon": "☁️",
+    "skills": "Python, Linux, AWS, Docker, Git",
+    "interests": "Cloud, DevOps, Infrastructure",
+    "roadmap": "Linux → Networking → AWS → Docker → Git → CI/CD → Deployment"
+  },
+  {
+    "career": "DevOps Engineer",
+    "icon": "⚙️",
+    "skills": "Linux, Git, Docker, AWS, Python",
+    "interests": "DevOps, Cloud, Automation",
+    "roadmap": "Linux → Git → Docker → AWS → CI/CD → Kubernetes → Pipelines"
+  }
+]
